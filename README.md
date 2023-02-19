@@ -39,4 +39,4 @@ I'm currently working my way through The Odin Project.  I'm currently in the Nod
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rdpinkst)](https://git.io/streak-stats)
+
