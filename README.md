@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently working my way through The Odin Project.  I'm currently in the NodeJS portion and am learning and using:  
+I am learning Full Stack Development. I am working my way through The Odin Project, and am currently in the NodeJS portion learning:  
 
-   -NodeJS  
+  -NodeJS  
   -Express  
   -MongoDB  
   -Mongoose  
   -Pug  
  
- Along with The Odin Project, I'm doing Front Mentor challenges to level up my Frontend skills and also learning data structures and algorithms, using 
- the Complete Intro to Computer Science course on Frontend Masters.
+ Along with The Odin Project, I do Frontend Mentor challenges to level up my Frontend skills and also learning data structures and algorithms, using 
+ Complete Intro to Computer Science course on Frontend Masters.
  
 
 ### :hammer_and_wrench: Languages and Tools :
