@@ -22,7 +22,8 @@ I'm currently working my way through The Odin Project.  I'm currently in the Nod
   -Mongoose  
   -Pug  
  
- Along with The Odin Project, I'm doing Front Mentor challenges to level up my Frontend skills.
+ Along with The Odin Project, I'm doing Front Mentor challenges to level up my Frontend skills and also learning data structures and algorithms, using 
+ the Complete Intro to Computer Science course on Frontend Masters.
  
 
 ### :hammer_and_wrench: Languages and Tools :
