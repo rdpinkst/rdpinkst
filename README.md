@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am learning Full Stack Development. I am working my way through The Odin Project, and am currently in the NodeJS portion learning:  
+I am learning Full Stack Web Development, working my way through The Odin Project.  I am currently in the NodeJS portion learning:  
 
   -NodeJS  
   -Express  
